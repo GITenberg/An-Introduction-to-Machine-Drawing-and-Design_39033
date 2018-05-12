@@ -1,0 +1,27 @@
+_repo: An-Introduction-to-Machine-Drawing-and-Design_39033
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Low, David Allan
+    birthdate: 1857
+    deathdate: 1937
+    gutenberg_agent_id: '39809'
+    url: http://www.gutenberg.org/2009/agents/39809
+description: ''
+gutenberg_issued: '2012-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Machinery -- Drawings'
+- !lcc 'TJ'
+- !lcsh 'Machine design'
+title: An Introduction to Machine Drawing and Design
+url: http://www.gutenberg.org/ebooks/39033
